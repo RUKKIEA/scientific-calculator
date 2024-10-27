@@ -1,0 +1,29 @@
+
+
+
+.main{
+ margin: auto;
+ width: 30%;
+ height: 80%;
+ border: 1px solid black;
+ padding:20px;
+}
+.btn-div{
+ display: grid;
+ grid-template-columns: 1fr 1fr 1fr 1fr;
+ gap: 10px;
+
+}
+button{
+ height: 70px;
+}
+
+input{
+ width: 98%;
+ height: 50px;
+ margin-bottom: 10px;
+}
+#clear{
+ margin-top: 10px;
+ width: 100%;
+}
